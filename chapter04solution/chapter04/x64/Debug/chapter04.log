@@ -1,0 +1,2 @@
+﻿  chapter04.cpp
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter04solution\chapter04\chapter04.cpp(155,3): error C3892: 'pnum2': const인 변수에 할당할 수 없습니다.
