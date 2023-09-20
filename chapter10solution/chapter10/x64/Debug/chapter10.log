@@ -1,0 +1,91 @@
+﻿  chapter10.cpp
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(81,12): error C2248: 'Rectangle::Rectangle': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(32,2): message : 'Rectangle::Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(85,33): error C2248: 'Rectangle::width': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(20,6): message : 'Rectangle::width' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(86,34): error C2248: 'Rectangle::height': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(21,6): message : 'Rectangle::height' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(89,17): error C2248: 'Rectangle::area_func': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(56,7): message : 'Rectangle::area_func' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(94,6): error C2248: 'Rectangle::width': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(20,6): message : 'Rectangle::width' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(95,6): error C2248: 'Rectangle::height': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(21,6): message : 'Rectangle::height' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(97,33): error C2248: 'Rectangle::width': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(20,6): message : 'Rectangle::width' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(98,34): error C2248: 'Rectangle::height': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(21,6): message : 'Rectangle::height' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(101,17): error C2248: 'Rectangle::area_func': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(56,7): message : 'Rectangle::area_func' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(105,33): error C2248: 'Rectangle::width': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(20,6): message : 'Rectangle::width' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(106,34): error C2248: 'Rectangle::height': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(21,6): message : 'Rectangle::height' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(109,17): error C2248: 'Rectangle::area_func': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(56,7): message : 'Rectangle::area_func' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(115,25): error C2248: 'Rectangle::Rectangle': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(45,2): message : 'Rectangle::Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(115,25): error C2248: 'Rectangle::~Rectangle': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(50,3): message : 'Rectangle::~Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(117,35): error C2248: 'Rectangle::width': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(20,6): message : 'Rectangle::width' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(118,36): error C2248: 'Rectangle::height': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(21,6): message : 'Rectangle::height' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(121,18): error C2248: 'Rectangle::area_func': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(56,7): message : 'Rectangle::area_func' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(126,12): error C2248: 'Rectangle::Rectangle': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(32,2): message : 'Rectangle::Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(128,35): error C2248: 'Rectangle::width': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(20,6): message : 'Rectangle::width' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(129,36): error C2248: 'Rectangle::height': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(21,6): message : 'Rectangle::height' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(130,18): error C2248: 'Rectangle::area_func': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(56,7): message : 'Rectangle::area_func' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(135,26): error C2248: 'Rectangle::Rectangle': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(45,2): message : 'Rectangle::Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(135,26): error C2248: 'Rectangle::~Rectangle': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(50,3): message : 'Rectangle::~Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(136,35): error C2248: 'Rectangle::width': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(20,6): message : 'Rectangle::width' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(137,36): error C2248: 'Rectangle::height': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(21,6): message : 'Rectangle::height' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(138,18): error C2248: 'Rectangle::area_func': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(56,7): message : 'Rectangle::area_func' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(143,23): error C2248: 'Rectangle::Rectangle': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(45,2): message : 'Rectangle::Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(143,23): error C2248: 'Rectangle::~Rectangle': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(50,3): message : 'Rectangle::~Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(146,13): error C2248: 'Rectangle::show': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(62,7): message : 'Rectangle::show' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(149,18): error C2248: 'Rectangle::area_func': private 멤버('Rectangle' 클래스에서 선언)에 액세스할 수 없습니다.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(56,7): message : 'Rectangle::area_func' 선언을 참조하십시오.
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chapter10solution\chapter10\chapter10.cpp(17,7): message : 'Rectangle' 선언을 참조하십시오.
