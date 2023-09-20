@@ -1,0 +1,7 @@
+﻿  chapter05.cpp
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chpater05solution\chpater05\chapter05.cpp(154,19): error C2440: '초기화 중': '_Elem'에서 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'(으)로 변환할 수 없습니다.
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\베성윤\Documents\C++언어\SBS C++언어 방학 특강 현장학습\chpater05solution\chpater05\chapter05.cpp(154,19): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
